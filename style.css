@@ -1,5 +1,26 @@
-h1{
-    background-color: aqua;
-    color: chocolate;
+div{
+    background-color: bisque;
+    width: 100px;
+    height: 30px;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    color: #f3081c;
 
+}
+
+.overline{
+    text-decoration: overline red 1px;
+}
+
+.line-through{
+    text-decoration: line-through green 1px;
+}
+
+.underline{
+    text-decoration: underline yellow 1px;
+}
+
+.mix{
+  text-decoration: overline underline purple 1px;  
 }
